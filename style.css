@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Roboto", serif;
+    font-family: "Outfit", serif;
 }
 :root {
     --main-bg-color: #D5E1EF;
@@ -40,6 +40,8 @@ main {
     padding: 16px 16px 40px 16px;
     background: var(--inner-white);
     border-radius: 15px;
+    box-shadow: var(--txt-color) 1.95px 1.95px 2.6px;
+
 }
 .wrp-flex-grnd-child h1 {
     margin: 24px auto;
