@@ -40,7 +40,7 @@ main {
     padding: 16px 16px 40px 16px;
     background: var(--inner-white);
     border-radius: 15px;
-    box-shadow: var(--txt-color) 1.95px 1.95px 2.6px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 
 }
 .wrp-flex-grnd-child h1 {
